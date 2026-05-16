@@ -15,7 +15,7 @@
 
 ## 🎯 Demonstração
 
-🌐 **Demo ao vivo:** _[adicionar URL do Vercel após deploy]_
+🌐 **Demo ao vivo:** https://sorriso-perfeito-wheat.vercel.app
 
 ---
 
